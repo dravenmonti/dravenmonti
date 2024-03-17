@@ -13,4 +13,4 @@ In general, I have interests in the following:
 Bolded entries indicate areas I've also contributed to in some form, in addition to passive consumption.
 
 ## Other places
-[Wikipedia](https://en.wikipedia.org/wiki/User:Draven Monti)
+[Wikipedia](https://en.wikipedia.org/wiki/User:Draven_Monti)
