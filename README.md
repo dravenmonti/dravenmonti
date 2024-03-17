@@ -1,16 +1,16 @@
-### Hi there 👋
+# Draven Monti
+I am a fifteen year old developer. My primary focus is on learning about the world around me: this translates in the development world to algorithms and experimental proofs of concept.
 
-<!--
-**dravenmonti/dravenmonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Because I am autistic, my interests are narrow, and I struggle in a social environment. *However, this does not and will not block my progress in development.*
 
-Here are some ideas to get you started:
+## Interests
+In general, I have interests in the following:
+- Abstract mathematics: [metamath](https://us.metamath.org/mpeuni/mmset.html), calculus, [googology](https://googology.fandom.com/wiki/Googology_Wiki)
+- Applied mathematics: **computer science**, deep learning
+- Writing: **Wikipedia articles**
+- Politics: global history, ideologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bolded entries indicate areas I've also contributed to in some form, in addition to passive consumption.
+
+## Other places
+[Wikipedia](https://en.wikipedia.org/wiki/User:Draven Monti)
